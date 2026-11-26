@@ -1,0 +1,16 @@
+{
+  "name": "chromastudio",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.11",
+    "@netlify/database": "^2.0.4",
+    "@netlify/server": "^0.1.6",
+    "drizzle-orm": "^1.0.0-beta.22"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.11",
+    "drizzle-kit": "^1.0.0-beta.22"
+  },
+  "private": true
+}
